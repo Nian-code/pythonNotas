@@ -51,5 +51,3 @@ else:
     print("Parece que no elegiste la solución correcta")
     exit()
 
-
-
