@@ -1,4 +1,4 @@
-# pythonNotas
+# PythonNotas
 Aquí están los archivos del curso básico de python platzi
 
 -Conversor de monedas scraping a yahooFinance
