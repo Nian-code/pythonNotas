@@ -53,7 +53,7 @@ def run():
     elif moneda ==2:
         co_usd(cantidad)
     else:
-        print("Parece que no elegiste la solución correcta")
+        print("No elegiste una opción valida")
         exit()
 
 
